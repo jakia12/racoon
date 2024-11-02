@@ -558,7 +558,7 @@ body.rtl
   .elementor-element.elementor-element-747a5b8c
   .elementor-button:focus {
   background-color: #ffffff;
-  color: var(--e-global-color-secondary);
+  color: #b9aba1;
 }
 .elementor-14
   .elementor-element.elementor-element-747a5b8c
@@ -568,7 +568,7 @@ body.rtl
   .elementor-element.elementor-element-747a5b8c
   .elementor-button:focus
   svg {
-  fill: var(--e-global-color-secondary);
+  fill: #b9aba1;
 }
 .elementor-14 .elementor-element.elementor-element-5ec3abc7,
 .elementor-14
@@ -935,7 +935,7 @@ body.rtl
   nav.hfe-dropdown
   .menu-item
   a.hfe-sub-menu-item {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-14
   .elementor-element.elementor-element-102eed67
@@ -1054,7 +1054,7 @@ body.rtl
   .elementor-element.elementor-element-7e84497d
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
   /* background-image: url("https://topprotocol.io/wp-content/uploads/2024/09/richgt99_CZ_binance_is_holding_hand_of_a_an_adorable_chibi_turt_982ca2b0-d60b-4279-b64e-f543f54a92ff-removebg-preview.png"); */
   background-position: -80px -1px;
   background-repeat: no-repeat;
@@ -1063,7 +1063,7 @@ body.rtl
 .elementor-14
   .elementor-element.elementor-element-7e84497d
   > .elementor-background-overlay {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
   opacity: 0.9;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -1668,12 +1668,12 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14
   .elementor-element.elementor-element-2fcb54c:hover
   > .elementor-element-populated {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -1781,12 +1781,12 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14
   .elementor-element.elementor-element-8345bd1:hover
   > .elementor-element-populated {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -1894,12 +1894,12 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14
   .elementor-element.elementor-element-b929500:hover
   > .elementor-element-populated {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2055,7 +2055,7 @@ body.rtl
   .elementor-element.elementor-element-e428d02
   .elementor-button:focus {
   background-color: #ffffff;
-  color: var(--e-global-color-secondary);
+  color: #b9aba1;
 }
 .elementor-14
   .elementor-element.elementor-element-e428d02
@@ -2065,7 +2065,7 @@ body.rtl
   .elementor-element.elementor-element-e428d02
   .elementor-button:focus
   svg {
-  fill: var(--e-global-color-secondary);
+  fill: #b9aba1;
 }
 .elementor-14
   .elementor-element.elementor-element-414e457
@@ -2087,7 +2087,7 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #aacc8f;
+  background-color: #eab085;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2183,7 +2183,7 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #aacc8f;
+  background-color: #eab085;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2279,7 +2279,7 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #aacc8f;
+  background-color: #eab085;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2380,7 +2380,7 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #aacc8f;
+  background-color: #eab085;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2476,7 +2476,7 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #aacc8f;
+  background-color: #eab085;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2572,7 +2572,7 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #aacc8f;
+  background-color: #eab085;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2746,12 +2746,12 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14
   .elementor-element.elementor-element-a2d64fb:hover
   > .elementor-element-populated {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2851,12 +2851,12 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14
   .elementor-element.elementor-element-788d5e3:hover
   > .elementor-element-populated {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -2956,12 +2956,12 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14
   .elementor-element.elementor-element-b10d314:hover
   > .elementor-element-populated {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -3061,12 +3061,12 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14
   .elementor-element.elementor-element-cee4ef0:hover
   > .elementor-element-populated {
-  background-color: var(--e-global-color-secondary);
+  background-color: #b9aba1;
 }
 .elementor-bc-flex-widget
   .elementor-14
@@ -3197,7 +3197,7 @@ body.rtl
   .elementor-element.elementor-element-cda4e28
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14 .elementor-element.elementor-element-cda4e28 {
   border-style: solid;
@@ -3313,7 +3313,7 @@ body.rtl
   .elementor-element.elementor-element-f109d89
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14 .elementor-element.elementor-element-f109d89 {
   border-style: solid;
@@ -3430,7 +3430,7 @@ body.rtl
   .elementor-element.elementor-element-b5d9680
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14 .elementor-element.elementor-element-b5d9680 {
   border-style: solid;
@@ -3547,7 +3547,7 @@ body.rtl
   .elementor-element.elementor-element-9366cd1
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #98b97e;
+  background-color: #eab085;
 }
 .elementor-14 .elementor-element.elementor-element-9366cd1 {
   border-style: solid;
@@ -3760,13 +3760,13 @@ body.rtl
   .elementor-element.elementor-element-3caebf8e
   .elementor-social-icon
   i {
-  color: var(--e-global-color-secondary);
+  color: #b9aba1;
 }
 .elementor-14
   .elementor-element.elementor-element-3caebf8e
   .elementor-social-icon
   svg {
-  fill: var(--e-global-color-secondary);
+  fill: #b9aba1;
 }
 .elementor-14
   .elementor-element.elementor-element-3caebf8e
@@ -3820,7 +3820,7 @@ body.elementor-page-14:not(.elementor-motion-effects-element-type-background),
 body.elementor-page-14
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #829c6d;
+  background-color: #b9aba1;
 }
 @media (min-width: 768px) {
   .elementor-14 .elementor-element.elementor-element-78fd833c {
